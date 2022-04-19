@@ -131,3 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+pre_model/chinese-roberta-wwm-ext-large/*
