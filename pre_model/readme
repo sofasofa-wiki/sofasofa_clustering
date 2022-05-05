@@ -1,1 +1,5 @@
 存放一些预训练模型
+
+词向量模型：chinese-roberta-wwm-ext-large
+
+句向量模型：paraphrase-multilingual-mpnet-base-v2
