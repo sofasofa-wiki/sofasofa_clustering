@@ -24,6 +24,3 @@ def get_title_embedding(texts):
     sentence_embeddings = sentence_model.encode(texts)
     return sentence_embeddings
 
-
-def get_embeddings():
-    pass
