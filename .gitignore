@@ -133,3 +133,4 @@ dmypy.json
 .pyre/
 
 pre_model/chinese-roberta-wwm-ext-large/*
+pre_model/paraphrase-multilingual-mpnet-base-v2/*
